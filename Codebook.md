@@ -1,15 +1,13 @@
 Herein is a brief summary of the process to end up with the fulfuillment of the exercise.
 
-======================================================================================
 Data for this exercise was taken from:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Data directly downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Make sure to extract the zip file and rename the folder as data before putting it in
+Make sure to extract the zip file and rename the folder as data before putting it in the
 working directory for the script to work.
-======================================================================================
 
 The run_analysis.R script performs the following:
 
