@@ -14,10 +14,10 @@ Included is the setup instructions as to how to perform this analysis properly:
 
 The code is broken down into 5 phases:
 
-1. Merge training and test sets
-2. Extract measurements on the mean and standard deviation for each as well as improving readability of output file
-3. Name the activities in the data set
-4. Labels the data set with descriptive activity names
-5. Create an independent tidy data set with the average of each variable for each activity and each subject, then write the appropriate text files
+1. Merge training and test sets;
+2. Extract measurements on the mean and standard deviation for each as well as improving readability of output file;
+3. Name the activities in the data set;
+4. Labels the data set with descriptive activity names;
+5. Create an independent tidy data set with the average of each variable for each activity and each subject, then write the appropriate text files.
 
 Code book is provided separately within the repository.
