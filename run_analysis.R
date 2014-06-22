@@ -58,5 +58,5 @@ for(i in 1:subjectLen) {
     }
 }
 head(result)
-write.table(cleanedData, "merged.txt")
-write.table(result, "means.txt")
+write.table(cleanedData, "merged.txt") # this output is included for verification purposes
+write.table(result, "means.txt") # this file was submitted in the first part of the assignment
